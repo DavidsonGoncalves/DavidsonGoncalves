@@ -1,7 +1,7 @@
 
 ### Hello!
 
-Here you can see some codes i've been writing!
+Here you can see some code I've been writing!
 
 ##
 
